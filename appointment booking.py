@@ -292,7 +292,7 @@ while ans.lower()=='y':
             
     elif choice1==3:
         ans='n'
-        doctor_login()
+        login_doctor()
 
     elif choice1==4:
         exit()
